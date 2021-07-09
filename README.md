@@ -27,8 +27,8 @@ The Crowdsale contract is inspired by the open-zeppelin `Crowdsale` contract wit
 - Clone the repository and install dependencies
 
 ``` 
-git clone https://github.com/ProofSuite/ProofPresaleContract.git
-cd ProofPresaleContract
+git clone https://github.com/luckywebdev/presale_contract.git
+cd presale_contract
 npm install
 ```
 
